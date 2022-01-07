@@ -8,7 +8,7 @@ public class Goroku : MonoBehaviour
     {
         Application.OpenURL("https://twitter.com/kn4655/status/1435027927133876225");
     }
-    public void Yamete()	以前、もうやめてと
+    public void Yamete()	//以前、もうやめてと
     {
         Application.OpenURL("https://twitter.com/kn4655/status/1461018776615337986");
     }
